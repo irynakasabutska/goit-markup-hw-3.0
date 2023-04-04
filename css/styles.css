@@ -250,6 +250,7 @@ a {
     align-items: center;
     margin: 94px 215px 94px 215px;
     padding: 0;
+    column-gap: 30px;
 
 }
 
